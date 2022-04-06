@@ -9,4 +9,4 @@ Q <- mapQuery(yourData, metadata_query = yourMetaData, ref_obj = clBRCA)
 Q <- knnPredict(Q, clBRCA, clBRCA$meta_data$cellLine, k = 5)
 ```
 
-The object Q will contain the learned cell line for each cell used as input.
+The object `Q` will contain the learned cell line for each cell used as input.
