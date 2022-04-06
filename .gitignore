@@ -1,0 +1,14 @@
+
+Data/count_matrix_barcodes.tsv
+Data/count_matrix_genes.tsv
+Data/count_matrix_sparse.mtx
+Data/count_matrix_sparse.mtx.tar.gz
+Data/GSE150949_pooled_watermelon.count.matrix.csv.gz
+Data/GSE150949_pooled_watermelon.metadata.matrix.csv.gz
+Data/GSM4285803_scRNA_metaInfo.csv.gz
+Data/GSM4285803_scRNA_RawCounts.csv.gz
+Data/hsaENSEMBL-GENES.txt
+Data/MCF7.csv
+Data/metadata.csv
+Data/Original screen_All tissues_fitted data.csv
+Data/RAW.UMI.counts.BC.cell.lines.rds
