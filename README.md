@@ -1,6 +1,6 @@
 ![scTransferLearning](https://raw.githubusercontent.com/dosorio/scTransferLearning/main/Figures/F1.png?token=GHSAT0AAAAAABQZDAMLAJDQ3VZRRSKWIA5EYSXCFLQ)
 # Interested in mapping your cells?
-Please install symphony and download the following files: `Code > umapBRCA` and `Results > refBRCA.RData`, then you can use the following commands to map your cells to the reference:
+Please install [symphony](https://github.com/immunogenomics/symphony) and download the following files: `Code > umapBRCA` and `Results > refBRCA.RData`, then you can use the following commands to map your cells to the reference:
 
 ```R
 library(symphony)
